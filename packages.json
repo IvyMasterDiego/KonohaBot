@@ -1,8 +1,0 @@
-{
-    "name":"Kurama",
-    "version":"1.0.0",
-    "description":"Bot de Oficial de Konoha",
-    "main":"bot.js",
-    "author":"IvyMasterDiego",
-    "dependencies":{}
-}
